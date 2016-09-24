@@ -5,7 +5,7 @@ September 2016
 xordaniel@gmail.com
 
 ## Introduction
-This document is presented to introduce a plan to consolidate exposure to third party risk for Safe Exchange Coin holders. It outlines some parameters and features needed with the intention to construct a network and transaction software that is persistent anonymous and dsitributed. 
+This document is presented to introduce a plan to consolidate exposure to third party risk for Safe Exchange Coin holders. It outlines some parameters and features needed with the intention to construct a network and transaction software that is persistent anonymous and distributed. 
 
 A proposal on http://vote.safe.exchange that points to this outline will be active October 3, 2016 and request Safe Exchange Coin holders to vote "yes" if they should agree that third party risk should be reduced and development of backend software be produced by the Safe Exchange developer. 
 
@@ -35,9 +35,9 @@ Block times should be prompt: less than 1 minute.
 
 Users should be able to broadcast transactions over tor.
 
-Proof of Work mining should exist.
+Proof of Work mining will be the mode of block production.
 
-Safe Exchange Coin holders will be able to gain from the development payments of client software interacing with the new network software.
+Safe Exchange Coin holders will be able to gain from the reward that developers are able to receive if they generate transactions for the network via client interfaces.
 
 The Safe Exchange developer can make a system to account for Safe Exchange Coin holder addresses and reserve the rewards to those owners who can then redeem their reward from the new network.
 
@@ -57,8 +57,8 @@ The Safe Exchange developer can make a system to account for Safe Exchange Coin 
 
 
 ## Origins 
-The Safe Exchange project's goal is to build a decentralized contract market. Originally the community had selected a third party provider that claimed to be cable of supplying the distrubted infrastructure that could host any data that is persistent and has digital integrity including anonymity. The selection has been a mistake. A reliable solution must be sought out.
+The Safe Exchange project's goal is to build an anonymous decentralized contract market. Originally the community had selected a third party provider that claimed to be capable of supplying the distrubted infrastructure that could host any data that is persistent and has digital integrity including anonymity. The choice selection in the opinion of the Safe Exchange developer was a mistake. A reliable solution must be sought out.
 
-Third party activities are completely unpredictable because users can not know what third parties intend to do and also can not know entirely the validity of information that is presented from the third parties. 
+Third party activities are completely unpredictable because users can not know what third parties intend to do and also can not know entirely the validity of information that is presented from the third parties. Additionally changes to the third party software can cause undesirable damage to the intentions of the Safe Exchange project. 
 
 There are other ways to accomplish an anonymous decentralized contract market let's put our shot on goal. 
