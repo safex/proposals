@@ -49,7 +49,7 @@ The Safe Exchange developer can make a system to account for Safe Exchange Coin 
 3. Code the network
 4. Document the network
 5. Organize promotion
-6. Launch the network (begin mining)
+6. Launch the network (begin mining) No later than April 2017
 7. Maintain the network
 8. Poll users for feature requests
 
